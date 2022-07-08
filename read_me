@@ -1,0 +1,7 @@
+npm init -y
+npm i -d ts-node
+
+npm i express
+npm i -d typescript @types/node @types/express
+
+create ts compiler -> tsc --init
